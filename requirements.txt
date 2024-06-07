@@ -1,0 +1,12 @@
+***THE REQUIREMENTS OF THE PROJECT***
+**using pip install, the user needs to install all of the following libraries: **
+
+###
+
+requests
+inquirer
+yaspin
+tabulate
+pytest
+
+###
